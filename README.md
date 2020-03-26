@@ -14,3 +14,9 @@
 - Word2vec (Skip Gram)
 - naive softmax
 - negative sampling
+
+
+
+## Assignment 3
+
+- Dependence parsing using fully connected network
