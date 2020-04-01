@@ -20,3 +20,11 @@
 ## Assignment 3
 
 - Dependence parsing using fully connected network
+
+
+
+## Assignment 4
+
+- NMT with attention
+- beam search
+- BLEU calculation
