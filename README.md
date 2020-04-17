@@ -28,3 +28,10 @@
 - NMT with attention
 - beam search
 - BLEU calculation
+
+
+
+## Assignment 5
+
+- CNN word embedding module
+- Attention NMT with both word-level and character-level LSTM
