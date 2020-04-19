@@ -11,7 +11,7 @@
 
 ## 2. Character-based LSTM decoder for NMT
 
-- (e): After 10 hours‘ training, we get the final BLEU score: 35.6.
+- (e): After 10 hours‘ training, we get the final BLEU score: 36.28.
 
 
 
